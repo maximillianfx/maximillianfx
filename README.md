@@ -9,8 +9,9 @@
   
 **Personal Stuffs:**
 
-- 🧑🏻‍💻 I’m currently working on [IBM](https://github.com/IBM)
+- 🧑🏻‍💻 I’m currently working on [IBM](https://github.com/IBM) as Software Engineer
 - 👨🏻‍🎓 Education level: bacharelors degree in computer engineering at [University of Brasília](https://www.unb.br/)
 - 💬 Ask me about anything, I am happy to help (if I can)
 - ⚡️ Fun-Fact: Gremista 🇪🇪
 - 📫 Talk to me: maximillianfx@gmail.com
+
