@@ -7,7 +7,7 @@
 <br />
 <br />
   
-**Personal Stuffs:**
+**Personal Stuff:**
 
 - 🧑🏻‍💻 I’m currently working on [IBM](https://github.com/IBM) as Software Engineer
 - 👨🏻‍🎓 Education level: bacharelors degree in computer engineering at [University of Brasília](https://www.unb.br/)
